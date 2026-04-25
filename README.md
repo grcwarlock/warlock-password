@@ -12,13 +12,16 @@
 ║                                                                              ║
 ║                        S T A N D A R D   v 0 . 1 . 0                         ║
 ║                                                                              ║
-║   ─────────────────────────────────────────────────────────────────────────  ║
-║   Status: COMPLIANT      Entropy: ∞      Field Limit: cope harder            ║
-║   Threat Model: yes      Sanity: declined to comment                         ║
-║   ─────────────────────────────────────────────────────────────────────────  ║
-║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-COMPLIANT-B5EAD7?style=for-the-badge&labelColor=B5EAD7" alt="Status: Compliant">
+  <img src="https://img.shields.io/badge/ENTROPY-%E2%88%9E-C7CEEA?style=for-the-badge&labelColor=C7CEEA" alt="Entropy: Infinite">
+  <img src="https://img.shields.io/badge/FIELD_LIMIT-cope_harder-FFB7B2?style=for-the-badge&labelColor=FFB7B2" alt="Field Limit: cope harder">
+  <img src="https://img.shields.io/badge/THREAT_MODEL-yes-A8DADC?style=for-the-badge&labelColor=A8DADC" alt="Threat Model: yes">
+  <img src="https://img.shields.io/badge/SANITY-declined_to_comment-FFDAC1?style=for-the-badge&labelColor=FFDAC1" alt="Sanity: declined to comment">
+</p>
 
 ```
 ┌──[ THE STANDARD ]────────────────────────────────────────────────────────────┐
