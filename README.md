@@ -55,18 +55,19 @@
 │                                                                              │
 │   > Personal install (all projects):                                         │
 │                                                                              │
-│     git clone https://github.com/grcwarlock/warlock-password.git             │
 │     mkdir -p ~/.claude/skills                                                │
-│     cp -r warlock-password ~/.claude/skills/warlock-password                 │
+│     git clone https://github.com/grcwarlock/password-standard.git \           │
+│       ~/.claude/skills/password-standard                                     │
 │                                                                              │
 │   > Or symlink so the skill updates when you `git pull`:                     │
 │                                                                              │
-│     ln -s "$(pwd)/warlock-password" ~/.claude/skills/warlock-password        │
+│     ln -s "$(pwd)" ~/.claude/skills/password-standard                        │
 │                                                                              │
 │   > Project-level install (this repo only):                                  │
 │                                                                              │
 │     mkdir -p .claude/skills                                                  │
-│     cp -r warlock-password .claude/skills/warlock-password                   │
+│     git clone https://github.com/grcwarlock/password-standard.git \           │
+│       .claude/skills/password-standard                                       │
 │                                                                              │
 │   Restart your Claude Code session. The skill auto-registers.                │
 │                                                                              │

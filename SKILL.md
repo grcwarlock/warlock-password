@@ -1,5 +1,5 @@
 ---
-name: warlock-password
+name: password-standard
 description: >
   Generates passwords that satisfy the Password Standard: at least 247
   characters, contain a differential equation, include a philosophically
