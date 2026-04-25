@@ -20,7 +20,7 @@
 <h1 align="center">¯\_(ツ)_/¯</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status%3A_Compliant-B5EAD7?style=for-the-badge" alt="Status: Compliant">
+  <img src="https://img.shields.io/badge/Status%3A_Compliant-B5EAD7?style=for-the-badge" alt="Status: Maybe?">
   <img src="https://img.shields.io/badge/Entropy%3A_%E2%88%9E-C7CEEA?style=for-the-badge" alt="Entropy: Infinite">
   <img src="https://img.shields.io/badge/Field_Limit%3A_cope_harder-FFB7B2?style=for-the-badge" alt="Field Limit: cope harder">
   <img src="https://img.shields.io/badge/Threat_Model%3A_yes-A8DADC?style=for-the-badge" alt="Threat Model: yes">
@@ -56,7 +56,7 @@
 │   > Personal install (all projects):                                         │
 │                                                                              │
 │     mkdir -p ~/.claude/skills                                                │
-│     git clone https://github.com/grcwarlock/password-standard.git \           │
+│     git clone https://github.com/grcwarlock/password-standard.git \          │
 │       ~/.claude/skills/password-standard                                     │
 │                                                                              │
 │   > Or symlink so the skill updates when you `git pull`:                     │
@@ -66,7 +66,7 @@
 │   > Project-level install (this repo only):                                  │
 │                                                                              │
 │     mkdir -p .claude/skills                                                  │
-│     git clone https://github.com/grcwarlock/password-standard.git \           │
+│     git clone https://github.com/grcwarlock/password-standard.git \          │
 │       .claude/skills/password-standard                                       │
 │                                                                              │
 │   Restart your Claude Code session. The skill auto-registers.                │
@@ -143,7 +143,7 @@
 │   ✗ Use these passwords for anything that actually matters.                  │
 │   ✗ Paste one into your bank's login form and email me the screenshot.       │
 │   ✗ Recite a generated password aloud near a Mersenne prime enthusiast.      │
-│   ✗ Try to "improve" the twist. The model has tried. The model has failed.  │
+│   ✗ Try to "improve" the twist. The model has tried. The model has failed.   │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
