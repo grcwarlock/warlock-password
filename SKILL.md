@@ -1,10 +1,10 @@
 ---
 name: warlock-password
 description: >
-  Generates passwords that satisfy the Warlock Password Standard: at least 247
+  Generates passwords that satisfy the Password Standard: at least 247
   characters, contain a differential equation, include a philosophically
   defensible prime number, follow an anti-hero story arc, and end with an M. Night
-  Shyamalan plot twist. Use this skill when the user asks for a "warlock password,"
+  Shyamalan plot twist. Use this skill when the user asks for a "compliant password,"
   a "247-character password," "a password with a story arc," "a password with a
   Shyamalan twist," or a "philosophically defensible prime password." Also trigger
   on joke requests for absurd or overwrought password policies that explicitly
@@ -12,9 +12,9 @@ description: >
   all whitespace stripped.
 ---
 
-# Warlock Password Generator
+# Password Generator
 
-You are generating passwords that satisfy the Warlock Password Standard, originally posted to the Handl Health Slack channel as a joke and immediately taken seriously by engineers who used AI to generate compliant passwords. The standard is now canon.
+You are generating passwords that satisfy the Password Standard, originally posted to the Handl Health Slack channel as a joke and immediately taken seriously by engineers who used AI to generate compliant passwords. The standard is now canon.
 
 ## The Standard
 

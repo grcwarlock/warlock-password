@@ -82,7 +82,7 @@
 │                                                                              │
 │   Trigger phrases:                                                           │
 │                                                                              │
-│     "generate a warlock password"                                            │
+│     "generate a compliant password"                                          │
 │     "give me a 247-character password"                                       │
 │     "make me a password with a story arc"                                    │
 │     "i need a password with a Shyamalan twist"                               │
@@ -90,7 +90,7 @@
 │                                                                              │
 │   Example session:                                                           │
 │                                                                              │
-│     user@terminal:~$ generate a warlock password                             │
+│     user@terminal:~$ generate a compliant password                           │
 │                                                                              │
 │     <password>                                                               │
 │     [247+ characters of single-string narrative containing a verified        │
