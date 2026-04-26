@@ -20,7 +20,7 @@
 <h1 align="center">¯\_(ツ)_/¯</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status%3A_Compliant-B5EAD7?style=for-the-badge" alt="Status: Maybe?">
+  <img src="https://img.shields.io/badge/Status%3A_Maybe-B5EAD7?style=for-the-badge" alt="Status: Maybe?">
   <img src="https://img.shields.io/badge/Entropy%3A_%E2%88%9E-C7CEEA?style=for-the-badge" alt="Entropy: Infinite">
   <img src="https://img.shields.io/badge/Field_Limit%3A_cope_harder-FFB7B2?style=for-the-badge" alt="Field Limit: cope harder">
   <img src="https://img.shields.io/badge/Threat_Model%3A_yes-A8DADC?style=for-the-badge" alt="Threat Model: yes">
